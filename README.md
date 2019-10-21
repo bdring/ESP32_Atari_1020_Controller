@@ -6,6 +6,8 @@ This is a replacement controller for the Atari 1020 Pen plotter.
 
 ![](http://www.buildlog.net/blog/wp-content/uploads/2019/09/Atari_1020_plotter.jpg)
 
+![](http://www.buildlog.net/blog/wp-content/uploads/2019/10/bef_aft.jpg)
+
 It run Grbl_ESP32 and brings the following features to the pen plotter.
 
 - Plot from standard Gcode
