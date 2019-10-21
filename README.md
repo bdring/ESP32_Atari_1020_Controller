@@ -17,7 +17,7 @@ It runs [Grbl_ESP32](https://github.com/bdring/Grbl_Esp32) and brings the follow
 - Web Server with UI
 - Print from SD Card
 
-To learn more about this project, see this blog post (coming soon).
+To learn more about this project, see this [blog post](http://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/).
 
 ### <a name="donation"></a>Donation
 
