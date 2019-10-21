@@ -8,7 +8,7 @@ This is a replacement controller for the Atari 1020 Pen plotter.
 
 ![](http://www.buildlog.net/blog/wp-content/uploads/2019/10/bef_aft.jpg)
 
-It run Grbl_ESP32 and brings the following features to the pen plotter.
+It runs [Grbl_ESP32](https://github.com/bdring/Grbl_Esp32) and brings the following features to the pen plotter.
 
 - Plot from standard Gcode
 - Standard USB/Serial port
@@ -17,7 +17,7 @@ It run Grbl_ESP32 and brings the following features to the pen plotter.
 - Web Server with UI
 - Print from SD Card
 
-To learn more about this project, see this blog post.
+To learn more about this project, see this blog post (coming soon).
 
 ### <a name="donation"></a>Donation
 
